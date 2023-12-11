@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Digital-Garden/Mac mini作为服务器使用/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-12-11T00:38:51.692+08:00","updated":"2023-12-11T17:40:19.004+08:00"}
+{"dg-publish":true,"permalink":"/Digital-Garden/Mac mini作为服务器使用/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-12-11T00:38:51.692+08:00","updated":"2023-12-11T17:41:51.110+08:00"}
 ---
 
 #### 1.前言
-**华为**
+
 最近看Mac mini价格基本位于最低点，三千出头的样子就入手了一台Mac mini，一是体验下macos，二是因为有公网ipv6准备折腾把它当作一台服务器，把常用的服务都部署在上面，说到这里就得吐槽下国内服务器不仅贵，带宽还小还得域名备案，于是萌生了将自己的服务部署在自己家里的服务器上，买Mac mini也为了此，下面就详细叨叨Mac mini作为服务器的折腾过程。
 #### 2.安装ddns-go
 
