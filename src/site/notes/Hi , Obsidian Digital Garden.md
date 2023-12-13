@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/Hi , Obsidian Digital Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2023-12-11T00:54:08.452+08:00","updated":"2023-12-11T16:55:38.664+08:00"}
+{"dg-publish":true,"dg-home":false,"permalink":"/Hi , Obsidian Digital Garden/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-12-11T00:54:08.452+08:00","updated":"2023-12-13T23:30:43.266+08:00"}
 ---
 
 
@@ -31,6 +31,8 @@
 [oldwinter](https://notes.oldwinter.top/) || [哆啦 A 梦在做梦](https://zytomorrow.top/)
 
 ### 相关教程
+
+[[利用obsidian构建个人博客\|利用obsidian构建个人博客]]
 
 - 🌟 [利用 obsidian 构建个人博客](https://zytomorrow.top/%E6%8A%80%E6%9C%AF%E6%8A%98%E8%85%BE/%E5%88%A9%E7%94%A8obsidian%E6%9E%84%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
 - [Obsidian 免费建站发布网页 | 基于 Digital Garden + Github + Netlify](https://anotherdayu.com/2022/4222/)
